@@ -1,0 +1,10 @@
+Trajectory-based Probabilistic Policy Gradient for Learning Locomotion Behaviors.
+Learning Motion Planning Policies in Uncertain Environments through Repeated Task Executions.
+BaRC: Backward Reachability Curriculum for Robotic Reinforcement Learning.
+Active Sampling based Safe Identification of Dynamical Systems using Extreme Learning Machines and Barrier Certificates.
+Navigating Dynamically Unknown Environments Leveraging Past Experience.
+VPE: Variational Policy Embedding for Transfer Reinforcement Learning.
+Automatic Labeled LiDAR Data Generation based on Precise Human Model.
+Video Object Segmentation using Teacher-Student Adaptation in a Human Robot Interaction (HRI) Setting.
+Morphology-Specific Convolutional Neural Networks for Tactile Object Recognition with a Multi-Fingered Hand.
+A Maximum Likelihood Approach to Extract Finite Planes from 3-D Laser Scans.
